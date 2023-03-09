@@ -1,8 +1,3 @@
-/*
-	INTEGRANTES DA EQUIPE:
-		Wanderson Soares da Silva - 538348
-		Gabriel Victor Magalhães da Silva - 539922
-*/
 
 #include <stdio.h>
 #include <stdlib.h>
